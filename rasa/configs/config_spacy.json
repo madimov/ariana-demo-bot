@@ -1,0 +1,6 @@
+{
+  "pipeline": "spacy_sklearn",
+  "path" : "./training-models",
+  "data" : "./data/examples/rasa/demo-rasa.json",
+  "spacy_model_name": "en_core_web_sm"
+}

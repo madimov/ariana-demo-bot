@@ -1,0 +1,10 @@
+gunicorn
+python-telegram-bot
+validate_email
+psycopg2-binary
+scikit-learn
+scipy
+sklearn-crfsuite
+git+git://github.com/madimov/rasa_nlu_heroku#egg=rasa_nlu
+https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-1.2.0/en_core_web_sm-1.2.0.tar.gz#egg=en_core_web_sm
+spacy==1.7.0
